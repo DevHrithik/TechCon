@@ -77,7 +77,7 @@ Harnessing the fundamental building blocks of HTML, CSS, and JavaScript, I have 
 
 While my aspirations lie in the realm of becoming a DevOps Engineer, embarking on the TechCon project has proven immensely enjoyable and intellectually stimulating. It has been an opportunity for me to immerse myself in the intricacies of JSON and API integration, adding a diverse skill set to my repertoire.
 
-I extend a warm invitation to explore this simple yet impactful website, which you can access by simply {clicking here]. Dive into the world of upcoming tech conferences, experience the elegant synergy of code and design, and join me on this exciting journey of learning and innovation.
+I extend a warm invitation to explore this simple yet impactful website, which you can access by simply [clicking here](https://techcon.s3.ap-south-1.amazonaws.com/TechCon/index.html). Dive into the world of upcoming tech conferences, experience the elegant synergy of code and design, and join me on this exciting journey of learning and innovation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
