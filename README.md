@@ -85,7 +85,7 @@ I extend a warm invitation to explore this simple yet impactful website, which y
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+I build this website using very basic tools listed below:
 
 * [![HTML][HTML.com]][HTML-url]
 * [![CSS][CSS.com]][CSS-url]
