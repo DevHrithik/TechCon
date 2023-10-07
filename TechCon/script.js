@@ -25,3 +25,22 @@ fetch("https://gdscdev.vercel.app/api")
   .catch((error) => {
     console.error("Error fetching API:", error);
   });
+
+  // scrolling
+window.addEventListener('scroll', handelScrollBtn);
+
+let scrollBtn=document.getElementById('scrollTop');
+scrollBtn.addEventListener('click',scrollTop);
+
+function handelScrollBtn(){
+  let scrollY=window.scrollY;
+  if(scrollY>100){
+    scrollBtn.style.opacity="1";
+  }
+  else {
+    scrollBtn.style.opacity="0";
+  }
+}
+function scrollTop(){
+  window.scrollTo(0,0);
+}
